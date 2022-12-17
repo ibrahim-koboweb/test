@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kobowebmvp-backend-dotnet.props" />
+</Project>

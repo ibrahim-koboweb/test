@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CHhQ5QNlHihl5IK6P8YiDq6sccPkAkDbYakj8zBKRv8=",
+  "Source": "kobowebmvp-backend-dotnet",
+  "BasePath": "_content/kobowebmvp-backend-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
